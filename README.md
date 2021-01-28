@@ -9,13 +9,15 @@ To directly run the command use:
 curl -s -L https://bit.ly/36miLql | bash
 ```
 
-or
+OR
 
 ```
 wget https://bit.ly/36miLql && bash 36miLql
 ```
 
-Or clone the repository and execute using:
+OR
+
+Clone the repository and execute using:
 ```
 git cone https://github.com/shivanshu-semwal/linux_weather.git
 ```
